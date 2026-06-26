@@ -10,7 +10,7 @@ Python,  SQLite
 
 
 
-
+## 월별 매출
 ![alt text](imgs/monthly_revenue.png)
 
 ![alt text](imgs/top_products_customers.png)
@@ -20,6 +20,6 @@ Python,  SQLite
 ![alt text](imgs/rfm_segments.png)
 ![alt text](imgs/rfm_scatter.png)
 
-## retention
+## Retention
 
 ![alt text](imgs/cohort_retention.png)
