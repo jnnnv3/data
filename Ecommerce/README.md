@@ -11,15 +11,15 @@ Python,  SQLite
 
 
 
-![alt text](monthly_revenue.png)
+![alt text](imgs/monthly_revenue.png)
 
-![alt text](top_products_customers.png)
+![alt text](imgs/top_products_customers.png)
 
 
 ## RFM
-![alt text](rfm_segments.png)
-![alt text](rfm_scatter.png)
+![alt text](imgs/rfm_segments.png)
+![alt text](imgs/rfm_scatter.png)
 
 ## retention
 
-![alt text](cohort_retention.png)
+![alt text](imgs/cohort_retention.png)
